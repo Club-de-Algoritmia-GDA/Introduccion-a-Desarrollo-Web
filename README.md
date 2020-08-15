@@ -16,6 +16,7 @@ Puedes consutlar nuestros otros talleres en [https://www.algoritmia-gda.club/](h
  - ¿Qué es Responsive Design?
  - ¿Qué es Mobile First?
  - Agregando Responsive desde un enfoque Mobile First
+ - Deploy de nuestra página
 
 ## Recursos útiles
 
