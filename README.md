@@ -1,5 +1,6 @@
 # Introducción a Desarrollo Web
 ![enter image description here](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F108108655%2F272470550605%2F1%2Foriginal.20200809-020542?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C80%2C2560%2C1280&s=4a4895e30ae0198acb46f0d1d24e8b50)
+
 En este repositorio podrás encontrar todos los archivos finalizados además de un resumen visto en el taller *Web Principiantes* por **Club de Algoritmia GDA** instructor de la clase: [Jorge Sanchez](https://github.com/S4ND1X).
 
 Puedes consutlar nuestros otros talleres en [https://www.algoritmia-gda.club/](https://www.algoritmia-gda.club/)
